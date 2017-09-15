@@ -1,1 +1,5 @@
 # view
+
+## npm install  
+
+## npm start
