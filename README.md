@@ -1,5 +1,9 @@
 # view
 
-## npm install  
+```bash
+npm install  
+```
 
-## npm start
+```bash
+npm start
+```
